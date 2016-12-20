@@ -1,0 +1,19 @@
+{
+  "name": "is-twitter-a-bummer-today",
+  "version": "0.0.1",
+  "description": "Is Twitter a bummer today?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dangerismycat/is-twitter-a-bummer-today.git"
+  },
+  "author": "Ryan James",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dangerismycat/is-twitter-a-bummer-today/issues"
+  },
+  "homepage": "https://github.com/dangerismycat/is-twitter-a-bummer-today#readme"
+}
