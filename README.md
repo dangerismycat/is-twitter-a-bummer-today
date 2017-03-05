@@ -21,6 +21,6 @@ const TWITTER = {
 };
 ```
 
-# TODO
+# Todo?
 
-This was mostly an exploration of the Twitter API and sentiment analysis, and it's not particularly useful currently. It'd be cool to make it into an actual bot that you can tweet at to get analysis of your feed (though at that point you're likely already on Twitter, so that kinda defeats the purpose of the whole thing...). So in conclusion: ¯\_(ツ)_/¯
+This was mostly an exploration of the Twitter API and sentiment analysis, and it's not particularly useful currently. It'd be cool to make it into an actual bot that you can tweet at to get analysis of your feed (though at that point you're likely already on Twitter, so that kinda defeats the purpose of the whole thing...). So in conclusion: `¯\_(ツ)_/¯`
