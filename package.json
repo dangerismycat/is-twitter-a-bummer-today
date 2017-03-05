@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/dangerismycat/is-twitter-a-bummer-today/issues"
   },
-  "homepage": "https://github.com/dangerismycat/is-twitter-a-bummer-today#readme"
+  "homepage": "https://github.com/dangerismycat/is-twitter-a-bummer-today#readme",
+  "dependencies": {
+    "aylien_textapi": "^0.6.0",
+    "lodash": "^4.17.4",
+    "twit": "^2.2.5"
+  }
 }
