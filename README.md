@@ -4,7 +4,7 @@ This is a simple Node app that reads the 50 most recent tweets on your feed and 
 To run, you'll need to supply your own API keys (see below) and then just run `node index` in the project directory. After a few seconds, it'll spit out a result for you. Woo!
 
 
-# API KEYS
+# API Keys
 
 You'll need to supply your own API keys for Twitter and AYLIEN, stored in a `config.js` file. (This app isn't really configured for "production".) Use this format, or modify if you like:
 ```
@@ -20,3 +20,7 @@ const TWITTER = {
   ACCESS_SECRET: TWITTERACCESSSECRET,
 };
 ```
+
+# TODO
+
+This was mostly an exploration of the Twitter API and sentiment analysis, and it's not particularly useful currently. It'd be cool to make it into an actual bot that you can tweet at to get analysis of your feed (though at that point you're likely already on Twitter, so that kinda defeats the purpose of the whole thing...). So in conclusion: ¯\_(ツ)_/¯
